@@ -80,7 +80,7 @@ cd cradle
 1. Open the Landing page
 
 - Simply just open the `index.html` on your browser... OR
-- Use a local server using Python(recomended by me)
+- Use a local server with Python (recommended):
 
 ```bash
 python -m http.server 8000
